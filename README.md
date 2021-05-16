@@ -1,4 +1,4 @@
-# snoring
+# Snoring Detection
 Sensing snoring automagically
 
 At Dozee, our mission is to improve the quality of life through continuous health and well-being monitor. Our sensor tracks the quality of sleep and body vitals while a user is sleeping.
@@ -16,13 +16,7 @@ The image below represents time series data with snoring instances marked.
 ![Scheme](images/snoring2.png)
 
 
-The submission must mandatorily have: 
-	1. Text file documenting your approach or logic/algorithm used 
-	2. Code in preferrable language 
-	3. Plots/graphs that show snoring detection for every second of data for each of the data files
-
-The submission should be mailed to hr@dozee.io.
-For any clarifiactions please reach out to us at the same email address.
 
 
-**This repository will not self-destruct**
+
+
