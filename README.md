@@ -27,16 +27,16 @@ https://www.kaggle.com/vijayashankar96/snoring-detection
 
 
 Clone data from https://bitbucket.org/turtleshelltechnologies/snoring
-Import Libraries
-Read the datas
-Librosa core Spectrum Can used for Processing
-Plot telementry values
+Import Libraries,
+Read the datas,
+Librosa core Spectrum Can used for Processing,
+Plot telementry values,
 # fig, ax = plt.subplots(figsize=(24, 12))
 # img = librosa.display.specshow(S, y_axis='log', ax=ax)
 # ax.set_title('Power spectrogram')
 # fig.colorbar(img, ax=ax, format="%+2.0f dB")
 Generated training sequences for use in the model.
-Plot time series X train
-Create Y-train using X-train
-Create sequences from test values.
+Plot time series X train,
+Create Y-train using X-train,
+Create sequences from test values,
 Finally Plot the result
