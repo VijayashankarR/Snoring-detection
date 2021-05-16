@@ -15,8 +15,10 @@ The image below represents time series data with snoring instances marked.
 
 ![Scheme](images/snoring2.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Snoring Detection kaggle notebook
 
-
+https://www.kaggle.com/vijayashankar96/snoring-detection
 
 
